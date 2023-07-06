@@ -2,7 +2,7 @@ streamlit
 pandas
 folium
 streamlit_folium
-PIL
+Pillow
 plotly.express
 numpy
 pickle
