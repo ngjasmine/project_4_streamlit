@@ -1,0 +1,9 @@
+streamlit
+pandas
+folium
+streamlit_folium
+PIL
+plotly.express
+numpy
+pickle
+datetime
