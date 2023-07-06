@@ -6,7 +6,7 @@ from streamlit_folium import folium_static
 st.set_page_config(page_title="West Nile Virus Dashboard", page_icon='🦟')
 st.title("🌍 Visualizing historical data relating to the West Nile Virus")
 st.write("-- Data Nine Nine Project 4")
-st.markdown("***Map showing weather stations locations, trap locations, number of mosquitos caught in trap, spray data, and whether wnv was presen, for selected date.***")
+st.markdown("***Map showing weather stations locations, trap locations, number of mosquitos caught in trap, spray data, and whether wnv was present, for selected date.***")
 
 # Load the train dataset
 @st.cache_data    
