@@ -12,7 +12,6 @@ def load_file(filepath):
     pd.read_csv(filepath)
     return pd.read_csv(filepath)
 
-# JASMINE, UPDATE THE FILEPATH HERE!!!!
 df = load_file("./data/train_merge_df.csv")
 
 # st.sidebar.title('Data NineNine West Nile Virus')
