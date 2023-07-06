@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 import pickle
 import datetime
+import imblearn
 
 #from wnv_historical_data_viz import df (NOT NEEDED)
 
