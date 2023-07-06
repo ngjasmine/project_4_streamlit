@@ -5,5 +5,4 @@ streamlit_folium
 Pillow
 plotly.express
 numpy
-pickle
 datetime
