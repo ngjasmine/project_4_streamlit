@@ -24,7 +24,7 @@ def get_data(filename):
 
     # Data needed for model 1
     df_filtered = df[[  # Categorical data:
-                        'species', 'street', 'trap',  
+                        'species', 'street', 'trap', 'address_number_and_street', 
                         # Numerical data:
                         'block', 'latitude', 'longitude',
     'year', 'month', 'day', 'stat_1_tmax', 'stat_1_tmin', 'stat_1_tavg',
